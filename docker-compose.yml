@@ -6,7 +6,7 @@ services:
     environment:
       ACCEPT_EULA: "Y"
       MSSQL_PID: "Developer"
-      MSSQL_SA_PASSWORD: "YourStrong!Passw0rd"
+      MSSQL_SA_PASSWORD: "DWHouse@Competencia2026"
     ports:
       - "1433:1433"
     volumes:
