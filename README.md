@@ -62,23 +62,6 @@ Esse arquivo representa um backup do banco de dados AdventureWorks Data Warehous
 - Microsoft Excel (opcional, para validação de dados e organização de métricas);
 - Conhecimentos básicos de modelagem dimensional e indicadores de negócio.
 
-## Sugestões de KPIs
-
-Alguns exemplos de métricas que podem ser avaliadas:
-
-- Receita total;
-- Vendas por categoria e produto;
-- Lucro bruto;
-- Ticket médio por cliente;
-- Taxa de crescimento de vendas;
-- Retorno por região;
-- Volume de pedidos por mês;
-- Performance de vendedores;
-- Índice de satisfação do cliente;
-- Custo por unidade vendida.
-
-As definições e fórmulas DAX de uma proposta inicial com 10 indicadores estão em [KPIs.md](./KPIs.md).
-
 ## Apresentação
 
 A apresentação será individual e deve comunicar de forma clara a narrativa dos dados, destacando os indicadores mais relevantes, os principais achados e as decisões que podem ser tomadas a partir das análises.
